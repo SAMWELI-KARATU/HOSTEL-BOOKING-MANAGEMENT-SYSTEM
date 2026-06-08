@@ -12,22 +12,23 @@ Inefficient payment tracking.
 Difficulty in generating occupancy reports.
 The proposed system addresses these challenges through a centralized digital platform.
 
-#Project Objectives
+##Project Objectives
 
 ##Main Objective
 To develop a web-based Hostel Booking Management System that simplifies room reservation and hostel management processes.
 
 ##Specific Objectives
-To allow users to register and manage their accounts.
-To enable online hostel room booking.
-To facilitate secure payment processing.
-To provide administrators with tools for managing rooms and bookings.
-To generate reports for decision-making.
-To improve efficiency and accuracy in hostel management.
+To allow users to register and manage their accounts.                                                                                     
+To enable online hostel room booking.                                                                                                     
+To facilitate secure payment processing.                                                                                                  
+To provide administrators with tools for managing rooms and bookings.                                                                     
+To generate reports for decision-making.                                                                                                  
+To improve efficiency and accuracy in hostel management.                                                                                  
 
 ##Scope of the Project
 The system covers:
-Student/User Module
+
+##Student/User Module
 Registration
 Login and authentication
 View available rooms
@@ -35,7 +36,8 @@ Room booking
 Booking history
 Payment processing
 Profile management
-Administrator Module
+
+##Administrator Module
 Manage users
 Manage hostels and rooms
 Manage bookings
@@ -43,7 +45,7 @@ Verify payments
 Generate reports
 Monitor occupancy status
 
-#Technologies used
+##Technologies used
 HTML5
 CSS3 
 JavaScript
@@ -51,7 +53,7 @@ PHP
 MySQL
 XAMPP
 
-#System Modules
+##System Modules
 ##Authentication Module
 ##Handles:
 Registration
@@ -89,14 +91,15 @@ Booking reports
 Occupancy reports
 Payment reports
 
-#Expected Benefits
+##Expected Benefits
 Faster booking process.
 Improved data accuracy.
 Reduced paperwork.
 Better room occupancy management.
 Easier payment tracking.
 Enhanced user experience.
-#Author
+
+##Author
 Student Name: SAMWELI KARATU
 Registration Number:  14323056/T.24
 Institution: MZUMBE UNIVERSITY
